@@ -1,0 +1,6 @@
+H:\Documents\web dev\BankingApp\BankingApp\bin\Debug\BankingApp.exe.config
+H:\Documents\web dev\BankingApp\BankingApp\bin\Debug\BankingApp.exe
+H:\Documents\web dev\BankingApp\BankingApp\bin\Debug\BankingApp.pdb
+H:\Documents\web dev\BankingApp\BankingApp\obj\Debug\BankingApp.csprojResolveAssemblyReference.cache
+H:\Documents\web dev\BankingApp\BankingApp\obj\Debug\BankingApp.exe
+H:\Documents\web dev\BankingApp\BankingApp\obj\Debug\BankingApp.pdb
