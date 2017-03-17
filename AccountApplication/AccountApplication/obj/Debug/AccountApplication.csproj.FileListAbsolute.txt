@@ -1,0 +1,8 @@
+C:\Users\Candy\Documents\uni 2017\web tech\AccountApplication\AccountApplication\bin\Debug\AccountApplication.exe.config
+C:\Users\Candy\Documents\uni 2017\web tech\AccountApplication\AccountApplication\bin\Debug\AccountApplication.exe
+C:\Users\Candy\Documents\uni 2017\web tech\AccountApplication\AccountApplication\bin\Debug\AccountApplication.pdb
+C:\Users\Candy\Documents\uni 2017\web tech\AccountApplication\AccountApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Candy\Documents\uni 2017\web tech\AccountApplication\AccountApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Candy\Documents\uni 2017\web tech\AccountApplication\AccountApplication\obj\Debug\AccountApplication.csprojResolveAssemblyReference.cache
+C:\Users\Candy\Documents\uni 2017\web tech\AccountApplication\AccountApplication\obj\Debug\AccountApplication.exe
+C:\Users\Candy\Documents\uni 2017\web tech\AccountApplication\AccountApplication\obj\Debug\AccountApplication.pdb

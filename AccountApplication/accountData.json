@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Savings",
+    "balance": 1450.0
+  },
+  {
+    "id": 2,
+    "name": "Checking",
+    "balance": 5000.0
+  },
+  {
+    "id": 3,
+    "name": "Credit",
+    "balance": 9545.0
+  },
+  {
+    "id": 4,
+    "name": "Online Saver",
+    "balance": 480.0
+  }
+]
